@@ -1,0 +1,18 @@
+C:\Users\B50-50\source\repos\Klinika\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\B50-50\source\repos\Klinika\Klinika\bin\Debug\Klinika.exe
+C:\Users\B50-50\source\repos\Klinika\Klinika\bin\Debug\Klinika.pdb
+C:\Users\B50-50\source\repos\Klinika\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+C:\Users\B50-50\source\repos\Klinika\Klinika\obj\Debug\Klinika.csproj.CoreCompileInputs.cache
+C:\Users\B50-50\source\repos\Klinika\Klinika\obj\Debug\Klinika.exe
+C:\Users\B50-50\source\repos\Klinika\Klinika\obj\Debug\Klinika.pdb
+C:\Users\Duran\Desktop\Aldin Masovic\Klinika\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\Duran\Desktop\Aldin Masovic\Klinika\Klinika\obj\Debug\Klinika.exe
+C:\Users\Duran\Desktop\Aldin Masovic\Klinika\Klinika\obj\Debug\Klinika.pdb
+C:\Users\Duran\Desktop\Aldin Masovic\Klinika\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+C:\Users\B50-50\Desktop\Aldin Masovic\Klinika\Klinika\obj\Debug\Klinika.csprojResolveAssemblyReference.cache
+C:\Users\B50-50\Desktop\Aldin Masovic\Klinika\Klinika\obj\Debug\Klinika.csproj.CoreCompileInputs.cache
+C:\Users\B50-50\Desktop\Aldin Masovic\Klinika\Klinika\obj\Debug\Klinika.exe
+C:\Users\B50-50\Desktop\Aldin Masovic\Klinika\Klinika\obj\Debug\Klinika.pdb
+C:\Users\B50-50\Desktop\Aldin Masovic\Klinika\Klinika\bin\Debug\Klinika.exe.config
+C:\Users\B50-50\Desktop\Aldin Masovic\Klinika\Klinika\bin\Debug\Klinika.exe
+C:\Users\B50-50\Desktop\Aldin Masovic\Klinika\Klinika\bin\Debug\Klinika.pdb

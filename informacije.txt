@@ -1,0 +1,7 @@
+1.Apstraktna klasa Osoba,polimorfizam sam koristio npr. Pacijent:Osoba,Doktor:Osoba. Klasa Klinika je sealed, dok je klasa Prva_pomoc partial.
+2. Interfejs IIspisiIme za ispisivanje imena
+3. Prilikom provjere ispravnosti JMBG koristio sam delegate i lambda izraze i iskaze kako bi omogucio ispravan unos JMBG-a.
+4. Za privremeno èuvanje podataka npr. pacijenata koristio sam List.
+5. dll
+6. Prilikom implementacije poštovao sam pravila dekompozicije.
+7. Iz glavnog menija sam uradio sve potrebno da bi obezbjedio funkcionalan rad programa (tj. sve opcije)
